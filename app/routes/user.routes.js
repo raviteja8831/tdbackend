@@ -1,6 +1,6 @@
 const { authJwt } = require("../middleware");
 const controller = require("../controllers/user.controller");
-const RUcontroller = require("../controllers/Retailer.controller");
+const RUcontroller = require("../controllers/retailer.controller");
 const CUcontroller = require("../controllers/company.controller");
 const express = require('express');
 const multer = require('multer');
