@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "http://184.168.113.227:3306",
   USER: "trackdot_admin",
   PASSWORD: "Siddhu@8387",
   DB: "trackdot_db",
