@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "http://184.168.113.227:3306",
-  USER: "trackdot_admin",
-  PASSWORD: "Siddhu@8387",
+  HOST: "trackdotdb.c3k2cu0gij81.ap-southeast-1.rds.amazonaws.com:3306",
+  USER: "admin",
+  PASSWORD: "pKPeQ8YyiQgW8mQRqFhE",
   DB: "trackdot_db",
   dialect: "mysql",
   pool: {
