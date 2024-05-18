@@ -3,7 +3,7 @@ module.exports = {
 :3306",
   USER: "siddhu",
   PASSWORD: "GKbZNlpsgvJWtwGcFAUp",
-  DB: "trackdot_db",
+  DB: "trackdot",
   dialect: "mysql",
   pool: {
     max: 5,
