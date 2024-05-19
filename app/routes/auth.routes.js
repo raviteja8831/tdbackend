@@ -12,7 +12,7 @@ module.exports = function(app) {
       "x-access-token, Origin, Content-Type, Accept",
       
     );
-    res.set('Access-Control-Allow-Origin', 'http://localhost:4200');
+    res.set('Access-Control-Allow-Origin', '*');
 
     next();
   });
